@@ -10,5 +10,8 @@ private String director;
    public String getTitle() {
 	   return this.title;
    }
-
+public String grtDirector()
+{
+	return this.director;
+}
 }
